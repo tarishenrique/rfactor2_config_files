@@ -12,3 +12,8 @@
 *.vsix
 
 LocalStorage/
+*.cch
+*.gal
+*.vdf
+*.7z
+*.zip
