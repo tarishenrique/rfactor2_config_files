@@ -1,0 +1,173 @@
+VehicleClassSetting="EGT_Full EGT_US Venom_EGT WEGT"
+UpgradeSetting=(12,0,0,0)
+//VEH=2014 USCC #93.veh
+//UpgradeClass=
+//Front bumper style one/two=0
+//Cockpit=0
+//Windshield Dirty/Clean=1
+//Rear wing high/low downforce=1
+//Note: settings commented out if using the default
+
+[GENERAL]
+Notes="Asa 2/10 .  RPM 6000. Tanque Cheio"
+Symmetric=1
+//CGHeightSetting=0//30.8 cm
+//CGRightSetting=2//50.0:50.0
+//CGRearSetting=0//55.0:45.0
+//WedgeSetting=0//0.00 turns
+//FrontTireCompoundSetting=1//S7
+//RearTireCompoundSetting=1//S7
+FuelSetting=84//90L (6laps)
+//NumPitstopsSetting=3//3
+//Pitstop1Setting=49//+49L (3laps)
+//Pitstop2Setting=49//+49L (3laps)
+//Pitstop3Setting=49//+49L (3laps)
+
+[LEFTFENDER]
+//FenderFlareSetting=0//0.0 cm
+
+[RIGHTFENDER]
+//FenderFlareSetting=0//0.0 cm
+
+[FRONTWING]
+FWSetting=1//2
+
+[REARWING]
+RWSetting=0//10 deg
+
+[BODYAERO]
+//RadiatorSetting=2//3
+//BrakeDuctSetting=2//3
+
+[SUSPENSION]
+//FrontWheelTrackSetting=0//170.0 cm
+//RearWheelTrackSetting=0//168.0 cm
+//FrontAntiSwaySetting=2//90 N/mm
+//RearAntiSwaySetting=3//18 N/mm
+//FrontToeInSetting=9//-0.15 deg
+//FrontToeOffsetSetting=0//0.00 deg
+//RearToeInSetting=6//0.20 deg
+//RearToeOffsetSetting=0//0.00 deg
+LeftCasterSetting=0//4.5 deg
+RightCasterSetting=0//4.5 deg
+//LeftTrackBarSetting=0//0.0 cm
+//RightTrackBarSetting=0//0.0 cm
+//Front3rdPackerSetting=0//0.0 cm
+//Front3rdSpringSetting=0//Detached
+//Front3rdSlowBumpSetting=0//1
+//Front3rdFastBumpSetting=0//1
+//Front3rdSlowReboundSetting=0//1
+//Front3rdFastReboundSetting=0//1
+//Rear3rdPackerSetting=0//0.0 cm
+//Rear3rdSpringSetting=0//Detached
+//Rear3rdSlowBumpSetting=0//1
+//Rear3rdFastBumpSetting=0//1
+//Rear3rdSlowReboundSetting=0//1
+//Rear3rdFastReboundSetting=0//1
+//ChassisAdj00Setting=0//1
+//ChassisAdj01Setting=0//1
+//ChassisAdj02Setting=0//1
+//ChassisAdj03Setting=0//1
+//ChassisAdj04Setting=0//1
+//ChassisAdj05Setting=0//1
+//ChassisAdj06Setting=0//1
+//ChassisAdj07Setting=0//1
+//ChassisAdj08Setting=0//1
+//ChassisAdj09Setting=0//1
+//ChassisAdj10Setting=0//1
+//ChassisAdj11Setting=0//1
+
+[CONTROLS]
+SteerLockSetting=11//20.0 deg
+//RearBrakeSetting=12//64.0:36.0
+//BrakePressureSetting=16//90%
+//HandfrontbrakePressSetting=0//0%
+//HandbrakePressSetting=0//0%
+//TCSetting=0//1
+//ABSSetting=0//1
+
+[ENGINE]
+RevLimitSetting=10//6,000
+//EngineBoostSetting=0//1
+//EngineMixtureSetting=0//0
+//EngineBrakingMapSetting=1//1
+
+[DRIVELINE]
+FinalDriveSetting=2//2.50:1
+//ReverseSetting=0//2.92 (7.31)
+Gear1Setting=0//2.92 (7.31)
+Gear2Setting=26//2.08 (5.21)
+Gear3Setting=48//1.58 (3.95)
+Gear4Setting=65//1.30 (3.25)
+Gear5Setting=79//1.14 (2.84)
+Gear6Setting=87//1.04 (2.60)
+//RatioSetSetting=0//N/A
+//DiffPumpSetting=0//0%
+//DiffPowerSetting=6//40%
+//DiffCoastSetting=8//50%
+//DiffPreloadSetting=1//2
+//RearSplitSetting=0// 0.0:100.0
+
+[FRONTLEFT]
+//CamberSetting=16//-3.2 deg
+//PressureSetting=15//150 kPa
+//PackerSetting=0//0.0 cm
+//SpringSetting=13//236 N/mm
+//SpringRubberSetting=0//Detached
+//RideHeightSetting=2//6.2 cm
+//SlowBumpSetting=8//9
+//FastBumpSetting=8//9
+//SlowReboundSetting=7//8
+//FastReboundSetting=7//8
+//BrakeDiscSetting=0//3.20 cm
+//BrakePadSetting=1//2
+
+[FRONTRIGHT]
+//CamberSetting=16//-3.2 deg
+//PressureSetting=15//150 kPa
+//PackerSetting=0//0.0 cm
+//SpringSetting=13//236 N/mm
+//SpringRubberSetting=0//Detached
+//RideHeightSetting=2//6.2 cm
+//SlowBumpSetting=8//9
+//FastBumpSetting=8//9
+//SlowReboundSetting=7//8
+//FastReboundSetting=7//8
+//BrakeDiscSetting=0//3.20 cm
+//BrakePadSetting=1//2
+
+[REARLEFT]
+//CamberSetting=14//-2.2 deg
+//PressureSetting=15//150 kPa
+//PackerSetting=0//0.0 cm
+SpringSetting=4//158 N/mm
+//SpringRubberSetting=0//Detached
+//RideHeightSetting=5//7.5 cm
+SlowBumpSetting=5//6
+FastBumpSetting=5//6
+SlowReboundSetting=4//5
+FastReboundSetting=4//5
+//BrakeDiscSetting=0//3.00 cm
+//BrakePadSetting=1//2
+
+[REARRIGHT]
+//CamberSetting=14//-2.2 deg
+//PressureSetting=15//150 kPa
+//PackerSetting=0//0.0 cm
+SpringSetting=4//158 N/mm
+//SpringRubberSetting=0//Detached
+//RideHeightSetting=5//7.5 cm
+SlowBumpSetting=5//6
+FastBumpSetting=5//6
+SlowReboundSetting=4//5
+FastReboundSetting=4//5
+//BrakeDiscSetting=0//3.00 cm
+//BrakePadSetting=1//2
+
+[BASIC]
+Downforce=0.500000
+Balance=0.500000
+Ride=0.500000
+Gearing=0.500000
+Custom=1
+

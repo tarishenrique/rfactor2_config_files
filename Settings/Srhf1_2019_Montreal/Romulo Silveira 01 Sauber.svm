@@ -1,0 +1,174 @@
+VehicleClassSetting="F1_1998 Minardi"
+UpgradeSetting=(0,0,0,0)
+//VEH=D:\GAMES\Steam\steamapps\common\rFactor 2\Installed\Vehicles\McLaren_MP4_13_1998\1998.5\RGPL98_14SAUBER.VEH
+//UpgradeClass=
+//Steering Configuration=0
+//Note: settings commented out if using the default
+
+[GENERAL]
+Notes=""
+Symmetric=1
+//CGHeightSetting=0//24.4 cm
+//CGRightSetting=3//50.0:50.0
+CGRearSetting=0//48.0:52.0
+//WedgeSetting=0//0.00 turns
+//FrontTireCompoundSetting=1//Medium
+//RearTireCompoundSetting=1//Medium
+//FuelSetting=62//70L (18laps)
+//NumPitstopsSetting=1//1
+//Pitstop1Setting=68//+69L (18laps)
+//Pitstop2Setting=68//N/A
+//Pitstop3Setting=68//N/A
+
+[LEFTFENDER]
+//FenderFlareSetting=0//1
+
+[RIGHTFENDER]
+//FenderFlareSetting=0//1
+
+[FRONTWING]
+FWSetting=35//26.0 ° (59%)
+
+[REARWING]
+RWSetting=9//40 ° (64%)
+
+[BODYAERO]
+//RadiatorSetting=4//5
+BrakeDuctSetting=6//7
+
+[SUSPENSION]
+//FrontWheelTrackSetting=0//141.0 cm
+//RearWheelTrackSetting=0//139.7 cm
+//FrontAntiSwaySetting=20//84 N/mm
+//RearAntiSwaySetting=14//24 N/mm
+//FrontToeInSetting=23//-0.175 °
+//FrontToeOffsetSetting=0//0 °
+//RearToeInSetting=13//0.35 °
+//RearToeOffsetSetting=0//0 °
+LeftCasterSetting=18//7.00 °
+RightCasterSetting=18//7.00 °
+//LeftTrackBarSetting=0//0.0 cm
+//RightTrackBarSetting=0//0.0 cm
+//Front3rdPackerSetting=42//21.0 mm
+//Front3rdSpringSetting=0//Detached
+Front3rdSlowBumpSetting=9//10
+Front3rdFastBumpSetting=6//7
+Front3rdSlowReboundSetting=7//8
+Front3rdFastReboundSetting=6//7
+//Rear3rdPackerSetting=38//38.0 mm
+//Rear3rdSpringSetting=0//Detached
+//Rear3rdSlowBumpSetting=7//8
+//Rear3rdFastBumpSetting=4//5
+//Rear3rdSlowReboundSetting=5//6
+//Rear3rdFastReboundSetting=4//5
+//ChassisAdj00Setting=0//1
+//ChassisAdj01Setting=0//1
+//ChassisAdj02Setting=0//1
+//ChassisAdj03Setting=0//1
+//ChassisAdj04Setting=0//1
+//ChassisAdj05Setting=0//1
+//ChassisAdj06Setting=0//1
+//ChassisAdj07Setting=0//1
+//ChassisAdj08Setting=0//1
+//ChassisAdj09Setting=0//1
+//ChassisAdj10Setting=0//1
+//ChassisAdj11Setting=0//1
+
+[CONTROLS]
+SteerLockSetting=2//14.2:1 (Slow)
+//RearBrakeSetting=8//56.0:44.0
+BrakePressureSetting=29//98 kgf (75%)
+//HandfrontbrakePressSetting=0// 
+//HandbrakePressSetting=0//0%
+//TCSetting=0//Aid (Weight Penalty)
+//ABSSetting=0//Aid (Weight Penalty)
+//TractionControlMapSetting=0//0
+//AntilockBrakeSystemMapSetting=0//0
+
+[ENGINE]
+//RevLimitSetting=5//16,800
+//EngineBoostSetting=0//1
+//EngineMixtureSetting=4//4
+EngineBrakingMapSetting=10//10
+
+[DRIVELINE]
+FinalDriveSetting=4//3.46
+//ReverseSetting=2//3.58
+Gear1Setting=32//2.46
+Gear2Setting=54//1.94
+Gear3Setting=69//1.63
+Gear4Setting=80//1.42
+Gear5Setting=90//1.29
+Gear6Setting=99//1.18
+//RatioSetSetting=0//N/A
+DiffPumpSetting=0//0%
+DiffPowerSetting=0//2%
+//DiffCoastSetting=19//25%
+DiffPreloadSetting=0//10 Nm
+//RearSplitSetting=0// 0.0:100.0
+//GearAutoUpShiftSetting=0//Off
+//GearAutoDownShiftSetting=0//Off
+
+[FRONTLEFT]
+CamberSetting=10//-3.80 °
+PressureSetting=4//100 kPa
+PackerSetting=0//0.0 mm
+//SpringSetting=10//136 N/mm
+//SpringRubberSetting=0//Detached
+RideHeightSetting=0//19.0 mm
+SlowBumpSetting=17//18
+FastBumpSetting=13//14
+SlowReboundSetting=20//21
+FastReboundSetting=15//16
+//BrakeDiscSetting=7//2.80 cm
+//BrakePadSetting=0//Hitco H44
+
+[FRONTRIGHT]
+CamberSetting=10//-3.80 °
+PressureSetting=6//102 kPa
+PackerSetting=0//0.0 mm
+//SpringSetting=10//136 N/mm
+//SpringRubberSetting=0//Detached
+RideHeightSetting=0//19.0 mm
+SlowBumpSetting=17//18
+FastBumpSetting=13//14
+SlowReboundSetting=20//21
+FastReboundSetting=15//16
+//BrakeDiscSetting=7//2.80 cm
+//BrakePadSetting=0//Hitco H44
+
+[REARLEFT]
+CamberSetting=8//-1.40 °
+PressureSetting=0//93 kPa
+PackerSetting=0//7.5 mm
+SpringSetting=0//40 N/mm
+//SpringRubberSetting=0//Detached
+RideHeightSetting=0//36.0 mm
+//SlowBumpSetting=12//13
+//FastBumpSetting=8//9
+//SlowReboundSetting=15//16
+//FastReboundSetting=12//13
+//BrakeDiscSetting=7//2.80 cm
+//BrakePadSetting=0//Hitco H44
+
+[REARRIGHT]
+CamberSetting=8//-1.40 °
+PressureSetting=0//93 kPa
+PackerSetting=0//7.5 mm
+SpringSetting=0//40 N/mm
+//SpringRubberSetting=0//Detached
+RideHeightSetting=0//36.0 mm
+//SlowBumpSetting=12//13
+//FastBumpSetting=8//9
+//SlowReboundSetting=15//16
+//FastReboundSetting=12//13
+//BrakeDiscSetting=7//2.80 cm
+//BrakePadSetting=0//Hitco H44
+
+[BASIC]
+Downforce=0.500000
+Balance=0.500000
+Ride=0.500000
+Gearing=0.500000
+Custom=1
+

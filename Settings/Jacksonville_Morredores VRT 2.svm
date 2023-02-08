@@ -1,0 +1,168 @@
+//[[gMb1.002f (c)2015    ]] [[ç"          ]]
+VehicleClassSetting="StockCar_2015"
+UpgradeSetting=(357,0,0,0)
+//VEH=E:\GAMES\RFACTOR 2 DEV\GAMEDATA\VEHICLES\SC2015\TEAMS\SC2014_78.VEH
+//UpgradeClass=
+//Configuration=5
+//Brake Kit=4
+//Inner Liner=1
+//Units=1
+//Note: settings commented out if using the default
+
+[GENERAL]
+Notes="Ride height is measured from the bottom of the chassis, the splitter and side skirts lie approximately 2 inches lower. Therefore"
+Notes=", a 3-in ride height gives approximately a 1-in splitter clearance."
+Symmetric=0
+//CGHeightSetting=0//12.52 in
+//CGRightSetting=0//52.6:47.4
+CGRearSetting=15//50.0:50.0
+//WedgeSetting=21//0.25 turns
+//FrontTireCompoundSetting=0//Super Speedway
+//RearTireCompoundSetting=0//Super Speedway
+//FuelSetting=67//18.0gal (43laps)
+//NumPitstopsSetting=2//2
+//Pitstop1Setting=60//+15.0gal (36laps)
+//Pitstop2Setting=50//+12.5gal (30laps)
+//Pitstop3Setting=40//N/A
+
+[LEFTFENDER]
+//FenderFlareSetting=0//0.00 in
+
+[RIGHTFENDER]
+//FenderFlareSetting=0//0.00 in
+
+[FRONTWING]
+//FWSetting=0//1
+
+[REARWING]
+//RWSetting=0//70 deg
+
+[BODYAERO]
+//RadiatorSetting=70//70%
+//BrakeDuctSetting=10//Closed
+
+[SUSPENSION]
+//FrontWheelTrackSetting=1//61.50 in
+//RearWheelTrackSetting=1//61.50 in
+FrontAntiSwaySetting=14//1.812 in
+//RearAntiSwaySetting=0//Detached
+//FrontToeInSetting=4//-0.10 deg
+//RearToeInSetting=3//0.05 deg
+//LeftCasterSetting=11//4.5 deg
+//RightCasterSetting=12//4.8 deg
+//LeftTrackBarSetting=56//14.000 in
+//RightTrackBarSetting=60//14.500 in
+//Front3rdPackerSetting=0//0.000 in
+//Front3rdSpringSetting=0//Detached
+//Front3rdSlowBumpSetting=0//0.0 lbs/in/s
+//Front3rdFastBumpSetting=0//0.0 lbs/in/s
+//Front3rdSlowReboundSetting=0//0.0 lbs/in/s
+//Front3rdFastReboundSetting=0//0.0 lbs/in/s
+//Rear3rdPackerSetting=0//0.000 in
+//Rear3rdSpringSetting=0//Detached
+//Rear3rdSlowBumpSetting=0//0.0 lbs/in/s
+//Rear3rdFastBumpSetting=0//0.0 lbs/in/s
+//Rear3rdSlowReboundSetting=0//0.0 lbs/in/s
+//Rear3rdFastReboundSetting=0//0.0 lbs/in/s
+//ChassisAdj00Setting=2//+1 in
+//ChassisAdj01Setting=2//+1 in
+//ChassisAdj02Setting=0//None
+//ChassisAdj03Setting=0//1
+//ChassisAdj04Setting=0//1
+//ChassisAdj05Setting=0//1
+//ChassisAdj06Setting=0//1
+//ChassisAdj07Setting=0//1
+//ChassisAdj08Setting=0//1
+//ChassisAdj09Setting=0//1
+//ChassisAdj10Setting=0//1
+//ChassisAdj11Setting=0//1
+
+[CONTROLS]
+//SteerLockSetting=15//22.5 deg
+//RearBrakeSetting=18//50.0:50.0
+//BrakePressureSetting=56//85%
+//HandfrontbrakePressSetting=0//0%
+//HandbrakePressSetting=0//0%
+
+[ENGINE]
+//RevLimitSetting=7//9,200
+//EngineBoostSetting=0//1
+//EngineBrakingMapSetting=0//0
+
+[DRIVELINE]
+//FinalDriveSetting=2//3.60:1
+//ReverseSetting=0//2.62 (9.42)
+Gear1Setting=1//2.50 (9.00)
+Gear2Setting=18//1.69 (6.08)
+Gear3Setting=37//1.28 (4.61)
+Gear4Setting=0//1.00 (3.60)
+//RatioSetSetting=0//N/A
+//DiffPumpSetting=0//0%
+//DiffPowerSetting=0//100%
+//DiffCoastSetting=0//0%
+//DiffPreloadSetting=0//1
+//RearSplitSetting=0// 0.0:100.0
+
+[FRONTLEFT]
+//CamberSetting=78//2.8 deg
+//PressureSetting=40//35.0 psi
+PackerSetting=13//0.812 in
+//SpringSetting=28//1025 lbs/in
+//SpringRubberSetting=0//Detached
+//RideHeightSetting=1//7.9 cm
+//SlowBumpSetting=1//30.0 lbs/in/s
+//FastBumpSetting=1//2.4 lbs/in/s
+//SlowReboundSetting=8//634.1 lbs/in/s
+//FastReboundSetting=8//32.0 lbs/in/s
+//BrakeDiscSetting=0//1.000 in
+//BrakePadSetting=2//3
+
+[FRONTRIGHT]
+//CamberSetting=79//-1.1 deg
+//PressureSetting=70//50.0 psi
+PackerSetting=18//1.125 in
+SpringSetting=50//2000 lbs/in
+//SpringRubberSetting=0//Detached
+RideHeightSetting=11//11.1 cm
+//SlowBumpSetting=1//55.0 lbs/in/s
+FastBumpSetting=19//10.6 lbs/in/s
+SlowReboundSetting=9//688.4 lbs/in/s
+FastReboundSetting=19//54.0 lbs/in/s
+//BrakeDiscSetting=0//1.000 in
+//BrakePadSetting=2//3
+
+[REARLEFT]
+//CamberSetting=50//1.5 deg
+//PressureSetting=40//35.0 psi
+//PackerSetting=12//0.750 in
+//SpringSetting=0//400 lbs/in
+//SpringRubberSetting=0//Detached
+//RideHeightSetting=1//12.7 cm
+//SlowBumpSetting=4//60.0 lbs/in/s
+//FastBumpSetting=4//2.8 lbs/in/s
+//SlowReboundSetting=4//114.0 lbs/in/s
+//FastReboundSetting=4//3.8 lbs/in/s
+//BrakeDiscSetting=0//0.709 in
+//BrakePadSetting=2//3
+
+[REARRIGHT]
+//CamberSetting=20//-1.5 deg
+//PressureSetting=66//48.0 psi
+//PackerSetting=16//1.000 in
+SpringSetting=2//450 lbs/in
+//SpringRubberSetting=0//Detached
+RideHeightSetting=7//14.7 cm
+//SlowBumpSetting=4//60.0 lbs/in/s
+//FastBumpSetting=4//2.8 lbs/in/s
+//SlowReboundSetting=4//114.0 lbs/in/s
+//FastReboundSetting=3//3.6 lbs/in/s
+//BrakeDiscSetting=0//0.709 in
+//BrakePadSetting=2//3
+
+[BASIC]
+Downforce=0.500000
+Balance=0.500000
+Ride=0.500000
+Gearing=0.500000
+Custom=1
+

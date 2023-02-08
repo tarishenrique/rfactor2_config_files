@@ -1,0 +1,167 @@
+VehicleClassSetting="Megane_Trophy"
+UpgradeSetting=(0,0,0,0)
+//VEH=D:\GAMES\Steam\steamapps\common\rFactor 2\Installed\Vehicles\ ISI_Renault_Megane_Trophy_2009\1.45\M2009_04.VEH
+//UpgradeClass=
+//Visor Mod=0
+//Note: settings commented out if using the default
+
+[GENERAL]
+Notes=""
+Symmetric=1
+//CGHeightSetting=0//31.8 cm
+//CGRightSetting=0//50.5:49.5
+//CGRearSetting=0//47.0:53.0
+//WedgeSetting=0//0.00 turns
+//FrontTireCompoundSetting=0//S8B (Dry)
+//RearTireCompoundSetting=0//S8B (Dry)
+FuelSetting=28//32L (11laps)
+NumPitstopsSetting=0//0
+//Pitstop1Setting=29//N/A
+//Pitstop2Setting=29//N/A
+//Pitstop3Setting=0//N/A
+
+[LEFTFENDER]
+//FenderFlareSetting=0//0.0 cm
+
+[RIGHTFENDER]
+//FenderFlareSetting=0//0.0 cm
+
+[FRONTWING]
+//FWSetting=0//--
+
+[REARWING]
+//RWSetting=4//P7
+
+[BODYAERO]
+//RadiatorSetting=0//0%
+//BrakeDuctSetting=1//2
+
+[SUSPENSION]
+//FrontWheelTrackSetting=0//169.9 cm
+//RearWheelTrackSetting=0//167.2 cm
+FrontAntiSwaySetting=0//231 daNm/°
+//RearAntiSwaySetting=0//Detached
+FrontToeInSetting=2//+2 mm (Out)
+//FrontToeOffsetSetting=0//0.00 deg
+RearToeInSetting=2//0 mm
+//RearToeOffsetSetting=0//0.00 deg
+LeftCasterSetting=12//8°
+RightCasterSetting=12//8°
+//LeftTrackBarSetting=0//N/A
+//RightTrackBarSetting=0//N/A
+//Front3rdPackerSetting=0//0.0 cm
+//Front3rdSpringSetting=0//Detached
+//Front3rdSlowBumpSetting=0//1
+//Front3rdFastBumpSetting=0//1
+//Front3rdSlowReboundSetting=0//1
+//Front3rdFastReboundSetting=0//1
+//Rear3rdPackerSetting=0//0.0 cm
+//Rear3rdSpringSetting=0//Detached
+//Rear3rdSlowBumpSetting=0//1
+//Rear3rdFastBumpSetting=0//1
+//Rear3rdSlowReboundSetting=0//1
+//Rear3rdFastReboundSetting=0//1
+//ChassisAdj00Setting=0//1
+//ChassisAdj01Setting=0//1
+//ChassisAdj02Setting=0//1
+//ChassisAdj03Setting=0//1
+//ChassisAdj04Setting=0//1
+//ChassisAdj05Setting=0//1
+//ChassisAdj06Setting=0//1
+//ChassisAdj07Setting=0//1
+//ChassisAdj08Setting=0//1
+//ChassisAdj09Setting=0//1
+//ChassisAdj10Setting=0//1
+//ChassisAdj11Setting=0//1
+
+[CONTROLS]
+//SteerLockSetting=16//25.5 deg
+RearBrakeSetting=25//62.5:37.5
+BrakePressureSetting=4//90%
+//HandfrontbrakePressSetting=0//0%
+//HandbrakePressSetting=0// 
+
+[ENGINE]
+//RevLimitSetting=0//7,200
+//EngineBoostSetting=0//1
+EngineBrakingMapSetting=2//2
+
+[DRIVELINE]
+//FinalDriveSetting=0//3.88:1
+//ReverseSetting=0//2.81 (10.90)
+Gear1Setting=0//2.25 (8.72)
+Gear2Setting=0//1.69 (6.54)
+Gear3Setting=0//1.40 (5.42)
+Gear4Setting=0//1.19 (4.61)
+Gear5Setting=0//1.03 (4.00)
+Gear6Setting=0//0.90 (3.49)
+//RatioSetSetting=0//N/A
+//DiffPumpSetting=0//N/A
+//DiffPowerSetting=0//45%
+//DiffCoastSetting=0//45%
+DiffPreloadSetting=0//5.0 m.kg
+//RearSplitSetting=0//RWD
+
+[FRONTLEFT]
+CamberSetting=10//-4.0°
+//PressureSetting=8//1.56 bar
+//PackerSetting=0//0.0 cm
+//SpringSetting=4//1800 lbs/in
+//SpringRubberSetting=0//Detached
+//RideHeightSetting=2//57 mm
+//SlowBumpSetting=20//20R
+//FastBumpSetting=20//20R
+//SlowReboundSetting=42//+3/4 turn
+//FastReboundSetting=42//+270°
+//BrakeDiscSetting=0//32 mm
+//BrakePadSetting=0//1
+
+[FRONTRIGHT]
+CamberSetting=10//-4.0°
+//PressureSetting=8//1.56 bar
+//PackerSetting=0//0.0 cm
+//SpringSetting=4//1800 lbs/in
+//SpringRubberSetting=0//Detached
+//RideHeightSetting=2//57 mm
+//SlowBumpSetting=20//20R
+//FastBumpSetting=20//20R
+//SlowReboundSetting=42//+3/4 turn
+//FastReboundSetting=42//+270°
+//BrakeDiscSetting=0//32 mm
+//BrakePadSetting=0//1
+
+[REARLEFT]
+CamberSetting=7//-2.8°
+//PressureSetting=8//1.56 bar
+//PackerSetting=0//0.0 cm
+SpringSetting=5//1900 lbs/in
+//SpringRubberSetting=0//Detached
+//RideHeightSetting=6//66 mm
+SlowBumpSetting=18//18R
+FastBumpSetting=18//18R
+SlowReboundSetting=34//+5/12 turn
+FastReboundSetting=34//+150°
+//BrakeDiscSetting=0//32 mm
+//BrakePadSetting=0//1
+
+[REARRIGHT]
+CamberSetting=7//-2.8°
+//PressureSetting=8//1.56 bar
+//PackerSetting=0//0.0 cm
+SpringSetting=5//1900 lbs/in
+//SpringRubberSetting=0//Detached
+//RideHeightSetting=6//66 mm
+SlowBumpSetting=18//18R
+FastBumpSetting=18//18R
+SlowReboundSetting=34//+5/12 turn
+FastReboundSetting=34//+150°
+//BrakeDiscSetting=0//32 mm
+//BrakePadSetting=0//1
+
+[BASIC]
+Downforce=0.500000
+Balance=0.500000
+Ride=0.500000
+Gearing=0.500000
+Custom=1
+

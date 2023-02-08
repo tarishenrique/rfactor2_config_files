@@ -1,0 +1,13 @@
+//[[gMa1.002f (c)2016    ]] [[            ]]
+NR2019
+{
+  metler
+  {
+    Team = metler racing
+    Component = OSR_NR2019
+    Skin = alt.dds
+    VehFile = T18KB.VEH
+    Description = toyota
+    Number = 34
+  }
+}

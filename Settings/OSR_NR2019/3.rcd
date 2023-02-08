@@ -1,0 +1,13 @@
+//[[gMa1.002f (c)2016    ]] [[            ]]
+NR2019
+{
+  Ozzie
+  {
+    Team = Ozzie's Sim Racing
+    Component = OSR_NR2019
+    Skin = alt_ozzie.mas
+    VehFile = C62BG.VEH
+    Description = Shamrock Nation Chevy
+    Number = 62
+  }
+}

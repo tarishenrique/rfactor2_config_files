@@ -1,0 +1,172 @@
+VehicleClassSetting="IndyCar"
+UpgradeSetting=(28,0,0,0)
+//VEH=Rogerio Ottoni.veh
+//UpgradeClass=IndyCar_2014_Chevrolet
+//Engine=0
+//Model=2
+//Wheelbase=3
+//Note: settings commented out if using the default
+
+[GENERAL]
+Notes="Setup bem seguro para corrida. Bem estavel na entrada e saida de curva."
+Symmetric=0
+//CGHeightSetting=0//25 cm
+//CGRightSetting=0//51.5:48.5
+//CGRearSetting=3//42.3:57.7
+//WedgeSetting=8//0.00 turns
+//FrontTireCompoundSetting=0//Firehawk
+//RearTireCompoundSetting=0//Firehawk
+FuelSetting=66//70L (17laps)
+NumPitstopsSetting=3//3
+Pitstop1Setting=74//+70L (17laps)
+Pitstop2Setting=74//+70L (17laps)
+Pitstop3Setting=74//+70L (17laps)
+
+[LEFTFENDER]
+//FenderFlareSetting=0//1
+
+[RIGHTFENDER]
+//FenderFlareSetting=0//1
+
+[FRONTWING]
+FWSetting=0//-10.0 °
+
+[REARWING]
+RWSetting=0//-10.0 °
+
+[BODYAERO]
+RadiatorSetting=0//1
+BrakeDuctSetting=0//1
+
+[SUSPENSION]
+//FrontWheelTrackSetting=0//167.1 cm
+//RearWheelTrackSetting=0//156.9 cm
+FrontAntiSwaySetting=25//91 N/mm
+RearAntiSwaySetting=0//Detached
+//FrontToeInSetting=36//-0.10 deg
+//FrontToeOffsetSetting=0//0.00 deg
+//RearToeInSetting=10//0.05 deg
+//RearToeOffsetSetting=0//0.00 deg
+//LeftCasterSetting=20//6.0 deg
+RightCasterSetting=22//6.2 deg
+//LeftTrackBarSetting=0//0.0 cm
+//RightTrackBarSetting=0//0.0 cm
+//Front3rdPackerSetting=5//1.0 cm
+//Front3rdSpringSetting=14//70 N/mm
+//Front3rdSlowBumpSetting=6//7
+//Front3rdFastBumpSetting=2//3
+//Front3rdSlowReboundSetting=4//5
+//Front3rdFastReboundSetting=2//3
+//Rear3rdPackerSetting=10//2.0 cm
+//Rear3rdSpringSetting=12//60 N/mm
+//Rear3rdSlowBumpSetting=6//7
+//Rear3rdFastBumpSetting=2//3
+//Rear3rdSlowReboundSetting=6//7
+//Rear3rdFastReboundSetting=2//3
+//ChassisAdj00Setting=0//1
+//ChassisAdj01Setting=0//1
+//ChassisAdj02Setting=0//1
+//ChassisAdj03Setting=0//1
+//ChassisAdj04Setting=0//1
+//ChassisAdj05Setting=0//1
+//ChassisAdj06Setting=0//1
+//ChassisAdj07Setting=0//1
+//ChassisAdj08Setting=0//1
+//ChassisAdj09Setting=0//1
+//ChassisAdj10Setting=0//1
+//ChassisAdj11Setting=0//1
+
+[CONTROLS]
+SteerLockSetting=3//360 (11) deg
+//RearBrakeSetting=20//55.0:45.0
+BrakePressureSetting=21//90 kgf (64%)
+//HandfrontbrakePressSetting=0//0%
+//HandbrakePressSetting=0//0%
+//TCSetting=0//Aid (Weight Penalty)
+//ABSSetting=0//Aid (Weight Penalty)
+
+[ENGINE]
+//RevLimitSetting=5//12,000
+//EngineBoostSetting=0//1
+//EngineMixtureSetting=0//0
+EngineBrakingMapSetting=8//8 (Min Braking)
+
+[DRIVELINE]
+FinalDriveSetting=3// 9/31 (bevel 24/23)
+//ReverseSetting=2//14/34 (8.017)
+Gear1Setting=0//14/41 (9.667)
+Gear2Setting=0//15/31 (6.822)
+Gear3Setting=10//18/28 (5.135)
+Gear4Setting=16//19/24 (4.170)
+Gear5Setting=23//19/22 (3.822)
+Gear6Setting=28//18/20 (3.668)
+//RatioSetSetting=0//N/A
+//DiffPumpSetting=0//10%
+//DiffPowerSetting=0//0%
+//DiffCoastSetting=0//0%
+//DiffPreloadSetting=0//1
+//RearSplitSetting=0// 0.0:100.0
+
+[FRONTLEFT]
+CamberSetting=3//1.3 deg
+//PressureSetting=42//152 kPa
+//PackerSetting=32//21.0 mm
+//SpringSetting=5//166 N/mm
+//SpringRubberSetting=0//Detached
+//RideHeightSetting=1//22.5 mm
+//SlowBumpSetting=12//13
+//FastBumpSetting=8//9
+//SlowReboundSetting=15//16
+//FastReboundSetting=12//13
+//BrakeDiscSetting=0//2.10 cm
+//BrakePadSetting=0//1
+
+[FRONTRIGHT]
+CamberSetting=30//-2.0 deg
+PressureSetting=92//202 kPa
+//PackerSetting=32//21.0 mm
+SpringSetting=6//175 N/mm
+//SpringRubberSetting=0//Detached
+//RideHeightSetting=31//37.5 mm
+//SlowBumpSetting=12//13
+//FastBumpSetting=8//9
+//SlowReboundSetting=15//16
+//FastReboundSetting=12//13
+//BrakeDiscSetting=0//2.10 cm
+//BrakePadSetting=0//1
+
+[REARLEFT]
+CamberSetting=0//1.5 deg
+//PressureSetting=28//138 kPa
+//PackerSetting=33//24.0 mm
+//SpringSetting=8//140 N/mm
+//SpringRubberSetting=0//Detached
+//RideHeightSetting=2//33.0 mm
+//SlowBumpSetting=12//13
+//FastBumpSetting=8//9
+//SlowReboundSetting=15//16
+//FastReboundSetting=12//13
+//BrakeDiscSetting=0//2.10 cm
+//BrakePadSetting=0//1
+
+[REARRIGHT]
+CamberSetting=21//-1.4 deg
+PressureSetting=65//175 kPa
+//PackerSetting=33//24.0 mm
+SpringSetting=9//149 N/mm
+//SpringRubberSetting=0//Detached
+//RideHeightSetting=10//47.0 mm
+//SlowBumpSetting=12//13
+//FastBumpSetting=8//9
+//SlowReboundSetting=15//16
+//FastReboundSetting=12//13
+//BrakeDiscSetting=0//2.10 cm
+//BrakePadSetting=0//1
+
+[BASIC]
+Downforce=0.500000
+Balance=0.500000
+Ride=0.500000
+Gearing=0.500000
+Custom=1
+

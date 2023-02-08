@@ -1,0 +1,13 @@
+//[[gMa1.002f (c)2016    ]] [[            ]]
+StockCar_2015
+{
+  Thiago Fassini
+  {
+    Team = Nascar BR AV Clube
+    Component = SC2015_2015
+    Skin = alt.dds
+    VehFile = SC2015_1.VEH
+    Description = NBR 23 Thiago Fassini
+    Number = #23
+  }
+}

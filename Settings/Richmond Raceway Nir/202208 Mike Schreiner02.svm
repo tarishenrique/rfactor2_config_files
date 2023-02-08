@@ -1,0 +1,193 @@
+VehicleClassSetting="StockCar_2018"
+UpgradeSetting=(19,0,0,0)
+//VEH=D:\GAMES\Steam\steamapps\common\rFactor 2\Installed\Vehicles\SCSR_2018-2022\2.05\SCSR-88A.VEH
+//UpgradeClass=
+//Configuration=19
+//Brake Kit=0
+//Inner Liner=0
+//Wheelbase=0
+//Steering Ratio=0
+//Units=0
+//Note: settings commented out if using the default
+
+[GENERAL]
+Notes="RaceSetup Default was loose on exit."
+Symmetric=0
+//CGHeightSetting=0//12 in
+//CGRightSetting=0//53.6:46.4
+//CGRearSetting=13//50.4:49.6
+//WedgeSetting=27//1.75 turns
+//FrontTireCompoundSetting=0//Richmond Tires
+//RearTireCompoundSetting=0//Richmond Tires
+//FuelSetting=0//68L (74laps)
+NumPitstopsSetting=3//3
+//Pitstop1Setting=8//2 CANS
+//Pitstop2Setting=8//2 CANS
+//Pitstop3Setting=8//2 CANS
+
+[LEFTFENDER]
+//FenderFlareSetting=0//0.0 cm
+
+[RIGHTFENDER]
+//FenderFlareSetting=0//0.0 cm
+
+[FRONTWING]
+//FWSetting=0//1
+
+[REARWING]
+//RWSetting=0//70 deg
+
+[BODYAERO]
+//WaterRadiatorSetting=50//51%
+//OilRadiatorSetting=0//
+//BrakeDuctSetting=9//90% Closed
+//BrakeDuctRearSetting=0//1
+
+[SUSPENSION]
+//FrontWheelTrackSetting=1//156.2 cm
+//RearWheelTrackSetting=1//156.2 cm
+//FrontAntiSwaySetting=21//5.71 cm
+//RearAntiSwaySetting=0//Detached
+//FrontToeInSetting=3//1/16-in Out
+//FrontToeOffsetSetting=0//Neutral
+//RearToeInSetting=1//Neutral
+//RearToeOffsetSetting=1//1/16-in Right
+//LeftCasterSetting=4//2.8 deg
+//RightCasterSetting=17//6.0 deg
+LeftTrackBarSetting=13//21.9 cm
+RightTrackBarSetting=11//21.3 cm
+//Front3rdPackerSetting=0//0.0 cm
+//Front3rdSpringSetting=0//Detached
+//Front3rdTenderSpringSetting=0//Detached
+//Front3rdTenderTravelSetting=0//Detached
+//Front3rdSlowBumpSetting=0//1
+//Front3rdFastBumpSetting=0//1
+//Front3rdSlowReboundSetting=0//1
+//Front3rdFastReboundSetting=0//1
+//Rear3rdPackerSetting=0//0.0 cm
+//Rear3rdSpringSetting=0//Detached
+//Rear3rdTenderSpringSetting=0//Detached
+//Rear3rdTenderTravelSetting=0//Detached
+//Rear3rdSlowBumpSetting=0//1
+//Rear3rdFastBumpSetting=0//1
+//Rear3rdSlowReboundSetting=0//1
+//Rear3rdFastReboundSetting=0//1
+//ChassisAdj00Setting=2//+1 in
+//ChassisAdj01Setting=2//+1 in
+//ChassisAdj02Setting=2//~10%
+//ChassisAdj03Setting=0//1
+//ChassisAdj04Setting=0//1
+//ChassisAdj05Setting=0//1
+//ChassisAdj06Setting=0//1
+//ChassisAdj07Setting=0//1
+//ChassisAdj08Setting=0//1
+//ChassisAdj09Setting=0//1
+//ChassisAdj10Setting=0//1
+//ChassisAdj11Setting=0//1
+
+[CONTROLS]
+//SteerLockSetting=8//720 (23) deg
+//RearBrakeSetting=8//55.0:45.0
+BrakePressureSetting=36//65%
+//HandfrontbrakePressSetting=0//0%
+//HandbrakePressSetting=0//0%
+//TCSetting=0//1
+//ABSSetting=0//1
+//TractionControlMapSetting=0//0
+//TCPowerCutMapSetting=0//0
+//TCSlipAngleMapSetting=0//0
+//AntilockBrakeSystemMapSetting=0//0
+
+[ENGINE]
+//RevLimitSetting=6//9,500
+//EngineBoostSetting=0//1
+//EngineMixtureSetting=5//5
+//EngineBrakingMapSetting=0//0
+
+[DRIVELINE]
+//FinalDriveSetting=9//5.14:1
+//ReverseSetting=0//2.62 (13.45)
+Gear1Setting=1//2.50 (12.86)
+Gear2Setting=24//1.56 (8.00)
+Gear3Setting=37//1.28 (6.58)
+Gear4Setting=0//1.00 (5.14)
+//RatioSetSetting=0//N/A
+//DiffPumpSetting=0//0%
+//DiffPowerSetting=0//100%
+//DiffCoastSetting=0//0%
+//DiffPreloadSetting=0//1
+//RearSplitSetting=0// 0.0:100.0
+//GearAutoUpShiftSetting=0//Off
+//GearAutoDownShiftSetting=0//Off
+
+[FRONTLEFT]
+//CamberSetting=70//2.0 deg
+//PressureSetting=0//131 kPa
+PackerSetting=13//2.1 cm
+//SpringSetting=11//96 N/mm
+//TenderSpringSetting=0//Detached
+//TenderTravelSetting=0//Detached
+//SpringRubberSetting=0//Detached
+//RideHeightSetting=0//3 in
+//SlowBumpSetting=4//5
+//FastBumpSetting=7//8
+//SlowReboundSetting=9//10
+//FastReboundSetting=9//10
+//BrakeDiscSetting=1//4.19 cm
+//BrakePadSetting=0//1
+
+[FRONTRIGHT]
+CamberSetting=66//-2.4 deg
+//PressureSetting=0//207 kPa
+//PackerSetting=12//1.9 cm
+//SpringSetting=32//210 N/mm
+//TenderSpringSetting=0//Detached
+//TenderTravelSetting=0//Detached
+//SpringRubberSetting=0//Detached
+//RideHeightSetting=0//3 in
+//SlowBumpSetting=4//5
+//FastBumpSetting=4//5
+//SlowReboundSetting=9//10
+//FastReboundSetting=8//9
+//BrakeDiscSetting=1//4.19 cm
+//BrakePadSetting=0//1
+
+[REARLEFT]
+//CamberSetting=26//0.6 deg
+//PressureSetting=0//131 kPa
+//PackerSetting=0//0.0 cm
+SpringSetting=12//61 N/mm
+//TenderSpringSetting=0//Detached
+//TenderTravelSetting=0//Detached
+//SpringRubberSetting=0//Detached
+//RideHeightSetting=0//4.875 in
+//SlowBumpSetting=14//15
+//FastBumpSetting=4//5
+//SlowReboundSetting=4//5
+//FastReboundSetting=4//5
+//BrakeDiscSetting=0//3.52 cm
+//BrakePadSetting=0//1
+
+[REARRIGHT]
+//CamberSetting=11//-0.9 deg
+//PressureSetting=0//207 kPa
+//PackerSetting=0//0.0 cm
+//SpringSetting=14//70 N/mm
+//TenderSpringSetting=0//Detached
+//TenderTravelSetting=0//Detached
+//SpringRubberSetting=0//Detached
+//RideHeightSetting=3//5.25 in
+//SlowBumpSetting=4//5
+//FastBumpSetting=4//5
+//SlowReboundSetting=4//5
+//FastReboundSetting=4//5
+//BrakeDiscSetting=0//3.52 cm
+//BrakePadSetting=0//1
+
+[BASIC]
+Downforce=0.500000
+Balance=0.500000
+Ride=0.500000
+Gearing=0.500000
+Custom=1
+

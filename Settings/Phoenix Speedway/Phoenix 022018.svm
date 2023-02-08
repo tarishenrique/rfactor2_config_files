@@ -1,0 +1,174 @@
+VehicleClassSetting="SCSR_2017"
+UpgradeSetting=(527,0,0,0)
+//VEH=D:\GAMES\Steam\steamapps\common\rFactor 2\Installed\Vehicles\2018-SCSR-CARset\1.19\SCSR_78.VEH
+//UpgradeClass=
+//Configuration=15
+//Brake Kit=0
+//Inner Liner=2
+//Wheelbase=0
+//Steering Ratio=0
+//Units=0
+//Note: settings commented out if using the default
+
+[GENERAL]
+Notes="Stockcar Setup TM 100517ÿruns high 25's early in race trimÿbraking ealry into 1 get to apex on approach ,slide out to wall on ex"
+Notes="itÿrolls trough3/4 good, gas at mid apex to exitÿgets very loose as run progresses use foot/lower track bar to compensate"
+Symmetric=0
+//CGHeightSetting=0//31.8 cm
+//CGRightSetting=0//52.6:47.4
+CGRearSetting=6//51.8:48.2
+WedgeSetting=20//0.00 turns
+//FrontTireCompoundSetting=0//Speedway
+//RearTireCompoundSetting=0//Speedway
+//FuelSetting=67//68L (34laps)
+NumPitstopsSetting=0//0
+//Pitstop1Setting=70//N/A
+//Pitstop2Setting=70//N/A
+//Pitstop3Setting=70//N/A
+
+[LEFTFENDER]
+//FenderFlareSetting=0//0.0 cm
+
+[RIGHTFENDER]
+//FenderFlareSetting=0//0.0 cm
+
+[FRONTWING]
+//FWSetting=0//1
+
+[REARWING]
+//RWSetting=0//70 deg
+
+[BODYAERO]
+RadiatorSetting=55//56%
+BrakeDuctSetting=6//60% Closed
+
+[SUSPENSION]
+//FrontWheelTrackSetting=1//156.2 cm
+//RearWheelTrackSetting=1//156.2 cm
+FrontAntiSwaySetting=31//7.30 cm
+//RearAntiSwaySetting=0//Detached
+FrontToeInSetting=2//1/8-in Out
+//FrontToeOffsetSetting=0//Neutral
+//RearToeInSetting=1//Neutral
+RearToeOffsetSetting=1//1/16-in Right
+LeftCasterSetting=6//3.3 deg
+RightCasterSetting=11//4.5 deg
+LeftTrackBarSetting=15//22.5 cm
+RightTrackBarSetting=19//23.8 cm
+//Front3rdPackerSetting=0//0.0 cm
+//Front3rdSpringSetting=0//Detached
+//Front3rdSlowBumpSetting=0//1
+//Front3rdFastBumpSetting=0//1
+//Front3rdSlowReboundSetting=0//1
+//Front3rdFastReboundSetting=0//1
+//Rear3rdPackerSetting=0//0.0 cm
+//Rear3rdSpringSetting=0//Detached
+//Rear3rdSlowBumpSetting=0//1
+//Rear3rdFastBumpSetting=0//1
+//Rear3rdSlowReboundSetting=0//1
+//Rear3rdFastReboundSetting=0//1
+//ChassisAdj00Setting=2//+1 in
+//ChassisAdj01Setting=2//+1 in
+//ChassisAdj02Setting=0//None
+//ChassisAdj03Setting=0//1
+//ChassisAdj04Setting=0//1
+//ChassisAdj05Setting=0//1
+//ChassisAdj06Setting=0//1
+//ChassisAdj07Setting=0//1
+//ChassisAdj08Setting=0//1
+//ChassisAdj09Setting=0//1
+//ChassisAdj10Setting=0//1
+//ChassisAdj11Setting=0//1
+
+[CONTROLS]
+//SteerLockSetting=8//720 (23) deg
+RearBrakeSetting=8//55.0:45.0
+//BrakePressureSetting=41//70%
+//HandfrontbrakePressSetting=0//0%
+//HandbrakePressSetting=0//0%
+//TCSetting=0//1
+//ABSSetting=0//1
+
+[ENGINE]
+//RevLimitSetting=7//9,500
+//EngineBoostSetting=0//1
+//EngineMixtureSetting=0//0
+//EngineBrakingMapSetting=0//0
+
+[DRIVELINE]
+FinalDriveSetting=17//4.33:1
+//ReverseSetting=0//2.62 (11.33)
+Gear1Setting=1//2.50 (10.83)
+Gear2Setting=18//1.69 (7.31)
+Gear3Setting=37//1.28 (5.55)
+Gear4Setting=0//1.00 (4.33)
+//RatioSetSetting=0//N/A
+//DiffPumpSetting=0//0%
+//DiffPowerSetting=0//100%
+//DiffCoastSetting=0//0%
+//DiffPreloadSetting=0//1
+//RearSplitSetting=0// 0.0:100.0
+
+[FRONTLEFT]
+CamberSetting=100//5.0 deg
+//PressureSetting=0//97 kPa
+PackerSetting=13//2.1 cm
+SpringSetting=0//53 N/mm
+//SpringRubberSetting=0//Detached
+//RideHeightSetting=0//3 in
+//SlowBumpSetting=1//2
+FastBumpSetting=3//4
+SlowReboundSetting=19//20
+FastReboundSetting=11//12
+//BrakeDiscSetting=1//4.19 cm
+//BrakePadSetting=0//1
+
+[FRONTRIGHT]
+CamberSetting=35//-5.5 deg
+//PressureSetting=0//234 kPa
+PackerSetting=17//2.7 cm
+//SpringSetting=31//201 N/mm
+//SpringRubberSetting=0//Detached
+RideHeightSetting=1//3.125 in
+SlowBumpSetting=9//10
+FastBumpSetting=7//8
+SlowReboundSetting=19//20
+FastReboundSetting=13//14
+//BrakeDiscSetting=1//4.19 cm
+//BrakePadSetting=0//1
+
+[REARLEFT]
+CamberSetting=53//1.8 deg
+//PressureSetting=0//97 kPa
+PackerSetting=14//2.2 cm
+SpringSetting=15//74 N/mm
+//SpringRubberSetting=0//Detached
+RideHeightSetting=0//4.875 in
+SlowBumpSetting=0//1
+FastBumpSetting=0//1
+SlowReboundSetting=5//6
+FastReboundSetting=5//6
+//BrakeDiscSetting=0//3.52 cm
+//BrakePadSetting=0//1
+
+[REARRIGHT]
+CamberSetting=0//-3.5 deg
+//PressureSetting=0//221 kPa
+PackerSetting=16//2.5 cm
+SpringSetting=16//79 N/mm
+//SpringRubberSetting=0//Detached
+RideHeightSetting=16//6.875 in
+SlowBumpSetting=1//2
+FastBumpSetting=1//2
+SlowReboundSetting=3//4
+//FastReboundSetting=3//4
+//BrakeDiscSetting=0//3.52 cm
+//BrakePadSetting=0//1
+
+[BASIC]
+Downforce=0.500000
+Balance=0.500000
+Ride=0.500000
+Gearing=0.500000
+Custom=1
+

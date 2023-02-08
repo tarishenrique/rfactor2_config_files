@@ -1,0 +1,13 @@
+//[[gMa1.002f (c)2016    ]] [[            ]]
+NBRAV_CUP
+{
+  Taris Henrique
+  {
+    Team = Minarae
+    Component = RC-NBRAV_HM250_MOD
+    Skin = alt.dds
+    VehFile = CHEVROLET_HM250_1.VEH
+    Description = 78 Taris Henrique
+    Number = 78
+  }
+}

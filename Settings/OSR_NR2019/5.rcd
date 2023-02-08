@@ -1,0 +1,13 @@
+//[[gMa1.002f (c)2016    ]] [[            ]]
+NR2019
+{
+  Andrew
+  {
+    Team = dirty mo
+    Component = OSR_NR2019
+    Skin = alt.dds
+    VehFile = C88AB.VEH
+    Description = 8
+    Number = 8
+  }
+}

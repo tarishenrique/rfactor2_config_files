@@ -1,0 +1,167 @@
+VehicleClassSetting="Clio_Cup"
+UpgradeSetting=(0,0,0,0)
+//VEH=D:\GAMES\Steam\steamapps\common\rFactor 2\Installed\Vehicles\ISI_Renault_ClioCup_2010\1.63\CLIO_17.VEH
+//UpgradeClass=
+//Visor Mod=0
+//Note: settings commented out if using the default
+
+[GENERAL]
+Notes=""
+Symmetric=1
+//CGHeightSetting=0//40.4 cm
+//CGRightSetting=0//50.4:49.6
+//CGRearSetting=0//63.7:36.3
+//WedgeSetting=0//0.00 turns
+//FrontTireCompoundSetting=0//Slick S9C
+//RearTireCompoundSetting=0//Slick S9C
+FuelSetting=19//22L (22laps)
+//NumPitstopsSetting=0//0
+//Pitstop1Setting=45//N/A
+//Pitstop2Setting=45//N/A
+//Pitstop3Setting=45//N/A
+
+[LEFTFENDER]
+//FenderFlareSetting=0//0.0 cm
+
+[RIGHTFENDER]
+//FenderFlareSetting=0//0.0 cm
+
+[FRONTWING]
+//FWSetting=0//1
+
+[REARWING]
+//RWSetting=0//1
+
+[BODYAERO]
+//RadiatorSetting=0//1
+BrakeDuctSetting=2//3
+
+[SUSPENSION]
+//FrontWheelTrackSetting=0//153.8 cm
+//RearWheelTrackSetting=0//152.0 cm
+FrontAntiSwaySetting=2//2.40 cm
+//RearAntiSwaySetting=0//-
+FrontToeInSetting=3//-0.25 deg
+//FrontToeOffsetSetting=0//0.00 deg
+//RearToeInSetting=3//0.17 deg
+//RearToeOffsetSetting=0//0.00 deg
+LeftCasterSetting=5//6.7 deg
+RightCasterSetting=5//6.7 deg
+//LeftTrackBarSetting=0//17.8 cm
+//RightTrackBarSetting=0//17.8 cm
+//Front3rdPackerSetting=0//0.0 cm
+//Front3rdSpringSetting=0//Detached
+//Front3rdSlowBumpSetting=0//1
+//Front3rdFastBumpSetting=0//1
+//Front3rdSlowReboundSetting=0//1
+//Front3rdFastReboundSetting=0//1
+//Rear3rdPackerSetting=0//0.0 cm
+//Rear3rdSpringSetting=0//Detached
+//Rear3rdSlowBumpSetting=0//1
+//Rear3rdFastBumpSetting=0//1
+//Rear3rdSlowReboundSetting=0//1
+//Rear3rdFastReboundSetting=0//1
+//ChassisAdj00Setting=0//1
+//ChassisAdj01Setting=0//1
+//ChassisAdj02Setting=0//1
+//ChassisAdj03Setting=0//1
+//ChassisAdj04Setting=0//1
+//ChassisAdj05Setting=0//1
+//ChassisAdj06Setting=0//1
+//ChassisAdj07Setting=0//1
+//ChassisAdj08Setting=0//1
+//ChassisAdj09Setting=0//1
+//ChassisAdj10Setting=0//1
+//ChassisAdj11Setting=0//1
+
+[CONTROLS]
+SteerLockSetting=5//450 (16) deg
+RearBrakeSetting=56//62.0:38.0
+BrakePressureSetting=6//52.0 kgf (65%)
+//HandfrontbrakePressSetting=0//0%
+//HandbrakePressSetting=10//100%
+
+[ENGINE]
+//RevLimitSetting=0//7,500
+//EngineBoostSetting=0//1
+//EngineBrakingMapSetting=0//0
+
+[DRIVELINE]
+//FinalDriveSetting=0//3.87:1
+//ReverseSetting=0//2.71 (10.50)
+Gear1Setting=0//2.83 (10.96)
+Gear2Setting=0//2.12 (8.19)
+Gear3Setting=0//1.68 (6.51)
+Gear4Setting=0//1.40 (5.41)
+Gear5Setting=0//1.20 (4.64)
+Gear6Setting=0//1.05 (4.04)
+//RatioSetSetting=0//N/A
+//DiffPumpSetting=0//0%
+//DiffPowerSetting=0//45%
+//DiffCoastSetting=0//0%
+DiffPreloadSetting=0//1
+//RearSplitSetting=0//FWD
+
+[FRONTLEFT]
+CamberSetting=18//-2.7 deg
+PressureSetting=6//152 kPa
+//PackerSetting=0//2.3 cm
+//SpringSetting=0//75 N/mm
+//SpringRubberSetting=0//Detached
+RideHeightSetting=0//70mm
+//SlowBumpSetting=0//1
+//FastBumpSetting=0//1
+//SlowReboundSetting=0//1
+//FastReboundSetting=0//1
+//BrakeDiscSetting=0//28mm
+//BrakePadSetting=0//DS1.11
+
+[FRONTRIGHT]
+CamberSetting=18//-2.7 deg
+PressureSetting=6//152 kPa
+//PackerSetting=0//2.3 cm
+//SpringSetting=0//75 N/mm
+//SpringRubberSetting=0//Detached
+RideHeightSetting=0//70mm
+//SlowBumpSetting=0//1
+//FastBumpSetting=0//1
+//SlowReboundSetting=0//1
+//FastReboundSetting=0//1
+//BrakeDiscSetting=0//28mm
+//BrakePadSetting=0//DS1.11
+
+[REARLEFT]
+CamberSetting=13//-2.2 deg
+PressureSetting=11//162 kPa
+//PackerSetting=0//3.3 cm
+//SpringSetting=0//130 N/mm
+//SpringRubberSetting=0//Detached
+RideHeightSetting=0//120mm
+//SlowBumpSetting=0//1
+//FastBumpSetting=0//1
+//SlowReboundSetting=0//1
+//FastReboundSetting=0//1
+//BrakeDiscSetting=0//11mm
+//BrakePadSetting=0//DS2500
+
+[REARRIGHT]
+CamberSetting=13//-2.2 deg
+PressureSetting=11//162 kPa
+//PackerSetting=0//3.3 cm
+//SpringSetting=0//130 N/mm
+//SpringRubberSetting=0//Detached
+RideHeightSetting=0//120mm
+//SlowBumpSetting=0//1
+//FastBumpSetting=0//1
+//SlowReboundSetting=0//1
+//FastReboundSetting=0//1
+//BrakeDiscSetting=0//11mm
+//BrakePadSetting=0//DS2500
+
+[BASIC]
+Downforce=0.500000
+Balance=0.500000
+Ride=0.500000
+Gearing=0.500000
+Custom=1
+

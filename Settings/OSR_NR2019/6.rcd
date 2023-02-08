@@ -1,0 +1,13 @@
+//[[gMa1.002f (c)2016    ]] [[            ]]
+NR2019
+{
+  Will
+  {
+    Team = 1st Cavalry Division
+    Component = OSR_NR2019
+    Skin = alt_ozzie.mas
+    VehFile = Ozzie.veh
+    Description = Will
+    Number = 30
+  }
+}

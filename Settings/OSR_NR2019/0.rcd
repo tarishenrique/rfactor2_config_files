@@ -1,0 +1,22 @@
+//[[gMa1.002f (c)2016    ]] [[            ]]
+NR2019
+{
+  GPR
+  {
+    Team = GPR
+    Component = OSR_NR2019
+    Skin = ALT_GPR_087.dds
+    VehFile = C88AB.VEH
+    Description = GPR
+    Number = 87
+    Aggression = 30.73
+    Speed = 88.54
+    QualifySpeed = 90.10
+    WetSpeed = 88.02
+    StartSkill = 90.63
+    Crash = 14.58
+    CompletedLaps = 86.98
+    MinRacingSkill = 85.42
+    Composure = 87.50
+  }
+}

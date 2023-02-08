@@ -1,0 +1,169 @@
+VehicleClassSetting="T5_Touring_2013"
+UpgradeSetting=(0,0,0,0)
+//VEH=D:\GAMES\Steam\steamapps\common\rFactor 2\Installed\Vehicles\MauresT5\1.5\MAUREST5_13_10.VEH
+//UpgradeClass=
+//Visor Mod=0
+//Note: settings commented out if using the default
+
+[GENERAL]
+Notes=""
+Symmetric=1
+//CGHeightSetting=0//16.5 cm
+//CGRightSetting=0//50.0:50.0
+//CGRearSetting=0//50.8:49.2
+//WedgeSetting=0//0.00 turns
+//FrontTireCompoundSetting=0//Slick
+//RearTireCompoundSetting=0//Slick
+//FuelSetting=15//21L (6laps)
+//NumPitstopsSetting=1//1
+//Pitstop1Setting=49//+49L (14laps)
+//Pitstop2Setting=49//N/A
+//Pitstop3Setting=49//N/A
+
+[LEFTFENDER]
+//FenderFlareSetting=0//0.0 cm
+
+[RIGHTFENDER]
+//FenderFlareSetting=0//0.0 cm
+
+[FRONTWING]
+//FWSetting=0//1
+
+[REARWING]
+//RWSetting=9//29 deg
+
+[BODYAERO]
+//RadiatorSetting=2//3
+//BrakeDuctSetting=2//3
+
+[SUSPENSION]
+//FrontWheelTrackSetting=0//0.0 cm
+//RearWheelTrackSetting=0//0.0 cm
+//FrontAntiSwaySetting=2//80 N/mm
+RearAntiSwaySetting=0//Detached
+//FrontToeInSetting=3//-0.10 deg
+//FrontToeOffsetSetting=0//0.00 deg
+//RearToeInSetting=6//0.20 deg
+//RearToeOffsetSetting=0//0.00 deg
+LeftCasterSetting=4//6°
+RightCasterSetting=4//6°
+//LeftTrackBarSetting=0//0.0 cm
+//RightTrackBarSetting=0//0.0 cm
+//Front3rdPackerSetting=0//0.0 cm
+//Front3rdSpringSetting=0//Detached
+//Front3rdSlowBumpSetting=0//1
+//Front3rdFastBumpSetting=0//1
+//Front3rdSlowReboundSetting=0//1
+//Front3rdFastReboundSetting=0//1
+//Rear3rdPackerSetting=0//0.0 cm
+//Rear3rdSpringSetting=0//Detached
+//Rear3rdSlowBumpSetting=0//1
+//Rear3rdFastBumpSetting=0//1
+//Rear3rdSlowReboundSetting=0//1
+//Rear3rdFastReboundSetting=0//1
+//ChassisAdj00Setting=0//1
+//ChassisAdj01Setting=0//1
+//ChassisAdj02Setting=0//1
+//ChassisAdj03Setting=0//1
+//ChassisAdj04Setting=0//1
+//ChassisAdj05Setting=0//1
+//ChassisAdj06Setting=0//1
+//ChassisAdj07Setting=0//1
+//ChassisAdj08Setting=0//1
+//ChassisAdj09Setting=0//1
+//ChassisAdj10Setting=0//1
+//ChassisAdj11Setting=0//1
+
+[CONTROLS]
+SteerLockSetting=11//19.0 deg
+RearBrakeSetting=20//60.0:40.0
+BrakePressureSetting=20//90%
+//HandfrontbrakePressSetting=0//0%
+//HandbrakePressSetting=0//0%
+//TCSetting=0//1
+//ABSSetting=0//1
+
+[ENGINE]
+//RevLimitSetting=0//8,000
+//EngineBoostSetting=0//1
+EngineBrakingMapSetting=8//8
+
+[DRIVELINE]
+//FinalDriveSetting=3//2.58:1
+//ReverseSetting=0//3.50 (9.04)
+Gear1Setting=0//3.50 (9.04)
+Gear2Setting=10//2.79 (7.20)
+Gear3Setting=16//2.38 (6.14)
+Gear4Setting=22//2.00 (5.17)
+Gear5Setting=26//1.75 (4.52)
+Gear6Setting=29//1.56 (4.04)
+//RatioSetSetting=0//N/A
+//DiffPumpSetting=0//0%
+//DiffPowerSetting=3//15%
+//DiffCoastSetting=10//50%
+//DiffPreloadSetting=1//2
+//RearSplitSetting=0// 0.0:100.0
+
+[FRONTLEFT]
+//CamberSetting=15//-2.5 deg
+//PressureSetting=50//185 kPa
+//PackerSetting=1//0.1 cm
+//SpringSetting=5//149 N/mm
+//SpringRubberSetting=0//Detached
+//RideHeightSetting=4//7.0 cm
+SlowBumpSetting=2//3
+//FastBumpSetting=1//2
+SlowReboundSetting=2//3
+//FastReboundSetting=1//2
+//BrakeDiscSetting=0//3.00 cm
+//BrakePadSetting=0//1
+
+[FRONTRIGHT]
+//CamberSetting=15//-2.5 deg
+//PressureSetting=50//185 kPa
+//PackerSetting=1//0.1 cm
+//SpringSetting=5//149 N/mm
+//SpringRubberSetting=0//Detached
+//RideHeightSetting=4//7.0 cm
+SlowBumpSetting=2//3
+//FastBumpSetting=1//2
+SlowReboundSetting=2//3
+//FastReboundSetting=1//2
+//BrakeDiscSetting=0//3.00 cm
+//BrakePadSetting=0//1
+
+[REARLEFT]
+//CamberSetting=15//-1.5 deg
+//PressureSetting=50//185 kPa
+//PackerSetting=1//0.1 cm
+SpringSetting=4//140 N/mm
+//SpringRubberSetting=0//Detached
+//RideHeightSetting=8//9.0 cm
+//SlowBumpSetting=1//2
+//FastBumpSetting=1//2
+//SlowReboundSetting=1//2
+//FastReboundSetting=1//2
+//BrakeDiscSetting=0//3.00 cm
+//BrakePadSetting=0//1
+
+[REARRIGHT]
+//CamberSetting=15//-1.5 deg
+//PressureSetting=50//185 kPa
+//PackerSetting=1//0.1 cm
+SpringSetting=4//140 N/mm
+//SpringRubberSetting=0//Detached
+//RideHeightSetting=8//9.0 cm
+//SlowBumpSetting=1//2
+//FastBumpSetting=1//2
+//SlowReboundSetting=1//2
+//FastReboundSetting=1//2
+//BrakeDiscSetting=0//3.00 cm
+//BrakePadSetting=0//1
+
+[BASIC]
+Downforce=0.500000
+Balance=0.500000
+Ride=0.500000
+Gearing=0.500000
+Custom=1
+

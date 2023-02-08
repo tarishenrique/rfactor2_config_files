@@ -1,0 +1,169 @@
+VehicleClassSetting="F2_2012"
+UpgradeSetting=(0,0,0,0)
+//VEH=D:\GAMES\Steam\steamapps\common\rFactor 2\Installed\Vehicles\ISI_Formula2_2012\1.42\FORMULA2_22.VEH
+//UpgradeClass=
+//Visor Mod=0
+//Aero Package=0
+//Track Conditions=0
+//Note: settings commented out if using the default
+
+[GENERAL]
+Notes=""
+Symmetric=1
+//CGHeightSetting=0// 
+//CGRightSetting=0//50% 50%
+//CGRearSetting=0//41% 59%
+//WedgeSetting=0// 
+//FrontTireCompoundSetting=0//Dry
+//RearTireCompoundSetting=0//Dry
+//FuelSetting=46//50L (6laps)
+//NumPitstopsSetting=0//0
+//Pitstop1Setting=0//N/A
+//Pitstop2Setting=0//N/A
+//Pitstop3Setting=0//N/A
+
+[LEFTFENDER]
+//FenderFlareSetting=0//1
+
+[RIGHTFENDER]
+//FenderFlareSetting=0//1
+
+[FRONTWING]
+//FWSetting=9//5°
+
+[REARWING]
+//RWSetting=7//Hole 4 + Gurney
+
+[BODYAERO]
+//RadiatorSetting=0//Open
+//BrakeDuctSetting=3//Blanking 30mm
+
+[SUSPENSION]
+//FrontWheelTrackSetting=0//1475mm
+//RearWheelTrackSetting=0//146.8 cm
+//FrontAntiSwaySetting=2//Inner Soft
+//RearAntiSwaySetting=1//P2 (Mid)
+//FrontToeInSetting=6//OUT 3.0mm
+//FrontToeOffsetSetting=0//0.00 deg
+//RearToeInSetting=4//IN 2.0mm
+//RearToeOffsetSetting=0//0.00 deg
+//LeftCasterSetting=0//2.5°
+//RightCasterSetting=0//2.5°
+//LeftTrackBarSetting=0//0.0 cm
+//RightTrackBarSetting=0//0.0 cm
+//Front3rdPackerSetting=19//19mm
+//Front3rdSpringSetting=0//Detached
+//Front3rdSlowBumpSetting=0//1
+//Front3rdFastBumpSetting=0//1
+//Front3rdSlowReboundSetting=0//1
+//Front3rdFastReboundSetting=0//1
+//Rear3rdPackerSetting=35//35mm
+//Rear3rdSpringSetting=0//Detached
+//Rear3rdSlowBumpSetting=0//1
+//Rear3rdFastBumpSetting=0//1
+//Rear3rdSlowReboundSetting=0//1
+//Rear3rdFastReboundSetting=0//1
+//ChassisAdj00Setting=0//1
+//ChassisAdj01Setting=0//1
+//ChassisAdj02Setting=0//1
+//ChassisAdj03Setting=0//1
+//ChassisAdj04Setting=0//1
+//ChassisAdj05Setting=0//1
+//ChassisAdj06Setting=0//1
+//ChassisAdj07Setting=0//1
+//ChassisAdj08Setting=0//1
+//ChassisAdj09Setting=0//1
+//ChassisAdj10Setting=0//1
+//ChassisAdj11Setting=0//1
+
+[CONTROLS]
+//SteerLockSetting=23//20.7 deg
+//RearBrakeSetting=22//55.0% 45.0%
+BrakePressureSetting=30//80%
+//HandfrontbrakePressSetting=0//0%
+//HandbrakePressSetting=0//0%
+
+[ENGINE]
+//RevLimitSetting=0//8,250
+//EngineBoostSetting=0//1
+//EngineBrakingMapSetting=0//0
+
+[DRIVELINE]
+//FinalDriveSetting=0//10/31 (bevel  1/ 1)
+//ReverseSetting=0//13/37 (8.823)
+Gear1Setting=0//13/37 (8.823)
+Gear2Setting=0//15/32 (6.613)
+Gear3Setting=0//17/29 (5.288)
+Gear4Setting=0//19/27 (4.405)
+Gear5Setting=1//22/27 (3.805)
+Gear6Setting=2//27/29 (3.330)
+//RatioSetSetting=2//Long
+//DiffPumpSetting=0// 
+//DiffPowerSetting=0//25%
+//DiffCoastSetting=0//65%
+//DiffPreloadSetting=0//1
+//RearSplitSetting=0// 
+
+[FRONTLEFT]
+CamberSetting=7//-3.1°
+//PressureSetting=10//14.0psi
+//PackerSetting=0//-
+//SpringSetting=1//1200lbs/”
+//SpringRubberSetting=0//Detached
+//RideHeightSetting=51//31.5mm
+//SlowBumpSetting=28//LSC 28 (7550N/m/s)
+//FastBumpSetting=35//HSC 35 (2860N/m/s)
+//SlowReboundSetting=37//LSR 37 (8340N/m/s)
+//FastReboundSetting=24//HSR 24 (5718N/m/s)
+//BrakeDiscSetting=0//25.4mm
+//BrakePadSetting=0//PFC 007
+
+[FRONTRIGHT]
+CamberSetting=7//-3.1°
+//PressureSetting=10//14.0psi
+//PackerSetting=0//-
+//SpringSetting=1//1200lbs/”
+//SpringRubberSetting=0//Detached
+//RideHeightSetting=51//31.5mm
+//SlowBumpSetting=28//LSC 28 (7550N/m/s)
+//FastBumpSetting=35//HSC 35 (2860N/m/s)
+//SlowReboundSetting=37//LSR 37 (8340N/m/s)
+//FastReboundSetting=24//HSR 24 (5718N/m/s)
+//BrakeDiscSetting=0//25.4mm
+//BrakePadSetting=0//PFC 007
+
+[REARLEFT]
+//CamberSetting=3//-2.5°
+//PressureSetting=8//13.0psi
+//PackerSetting=0//0.0 cm
+//SpringSetting=0//1150lbs/”
+//SpringRubberSetting=0//Detached
+//RideHeightSetting=10//49mm
+//SlowBumpSetting=32//LSC 32 (7992N/m/s)
+//FastBumpSetting=44//HSC 44 (3381N/m/s)
+//SlowReboundSetting=40//LSR 40 (4240N/m/s)
+//FastReboundSetting=25//HSR 25 (4915N/m/s)
+//BrakeDiscSetting=0//25.4mm
+//BrakePadSetting=0//PFC 007
+
+[REARRIGHT]
+//CamberSetting=3//-2.5°
+//PressureSetting=8//13.0psi
+//PackerSetting=0//0.0 cm
+//SpringSetting=0//1150lbs/”
+//SpringRubberSetting=0//Detached
+//RideHeightSetting=10//49mm
+//SlowBumpSetting=32//LSC 32 (7992N/m/s)
+//FastBumpSetting=44//HSC 44 (3381N/m/s)
+//SlowReboundSetting=40//LSR 40 (4240N/m/s)
+//FastReboundSetting=25//HSR 25 (4915N/m/s)
+//BrakeDiscSetting=0//25.4mm
+//BrakePadSetting=0//PFC 007
+
+[BASIC]
+Downforce=0.500000
+Balance=0.500000
+Ride=0.500000
+Gearing=0.500000
+Custom=1
+

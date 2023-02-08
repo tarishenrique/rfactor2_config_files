@@ -1,0 +1,13 @@
+//[[gMa1.002f (c)2016    ]] [[            ]]
+Clube
+{
+  Elvis Lima
+  {
+    Team = W3Race
+    Component = RC-NBRAV-NASCAR
+    Skin = alt_3.mas
+    VehFile = RC-NBRAV_HM250_FORD.VEH
+    Description = RC-NBRAV #3 Elvis Lima
+    Number = 3
+  }
+}

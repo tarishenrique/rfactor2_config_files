@@ -1,0 +1,22 @@
+//[[gMa1.002f (c)2016    ]] [[            ]]
+StockCar_2015
+{
+  Gustavo Maia
+  {
+    Team = Nascar BR AV Clube
+    Component = SC2015_2015
+    Skin = alt.dds
+    VehFile = SC2015_1.VEH
+    Description = NBR 33 Gustavo Maia
+    Number = #33
+    Aggression = 51.04
+    Speed = 83.33
+    QualifySpeed = 85.94
+    WetSpeed = 91.15
+    StartSkill = 87.50
+    Crash = 12.50
+    CompletedLaps = 92.71
+    MinRacingSkill = 89.58
+    Composure = 83.33
+  }
+}

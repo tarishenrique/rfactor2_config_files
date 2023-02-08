@@ -1,0 +1,175 @@
+VehicleClassSetting="HJK_OWC_2015"
+UpgradeSetting=(9,0,0,0)
+//VEH=D:\GAMES\Steam\steamapps\common\rFactor 2\Installed\Vehicles\HJK_OWC_2015_v3.0\3.0\MERCEDES_44.VEH
+//UpgradeClass=
+//Visor Mod=1
+//TV Cams=0
+//Tyres=2
+//Rear Flap Deactivation=0
+//Note: settings commented out if using the default
+
+[GENERAL]
+Notes="HJK OWC 2015"
+Symmetric=1
+//CGHeightSetting=0//21.5 cm
+//CGRightSetting=4//50.0:50.0
+//CGRearSetting=0//46.7:53.3
+//WedgeSetting=0//0.00 turns
+//FrontTireCompoundSetting=2//Medium
+//RearTireCompoundSetting=2//Medium
+FuelSetting=74//75L (33laps)
+//NumPitstopsSetting=0//0
+//Pitstop1Setting=0//N/A
+//Pitstop2Setting=0//N/A
+//Pitstop3Setting=0//N/A
+
+[LEFTFENDER]
+//FenderFlareSetting=0//1
+
+[RIGHTFENDER]
+//FenderFlareSetting=0//1
+
+[FRONTWING]
+FWSetting=45//46
+
+[REARWING]
+RWSetting=52//53
+
+[BODYAERO]
+//RadiatorSetting=2//3
+//BrakeDuctSetting=3//4
+
+[SUSPENSION]
+//FrontWheelTrackSetting=0//144.9 cm
+//RearWheelTrackSetting=0//142.0 cm
+FrontAntiSwaySetting=19//100 N/mm
+//RearAntiSwaySetting=2//8 N/mm
+//FrontToeInSetting=29//-0.275 °
+//FrontToeOffsetSetting=0//0.00 deg
+RearToeInSetting=11//0.275 °
+//RearToeOffsetSetting=0//0.00 deg
+LeftCasterSetting=0//5.00 °
+RightCasterSetting=0//5.00 °
+//LeftTrackBarSetting=0// 
+//RightTrackBarSetting=0// 
+Front3rdPackerSetting=20//15.0 mm
+Front3rdSpringSetting=31//256 N/mm
+//Front3rdSlowBumpSetting=5//6
+//Front3rdFastBumpSetting=2//3
+//Front3rdSlowReboundSetting=3//4
+//Front3rdFastReboundSetting=2//3
+Rear3rdPackerSetting=14//15.0 mm
+Rear3rdSpringSetting=14//270 N/mm
+Rear3rdSlowBumpSetting=13//14
+Rear3rdFastBumpSetting=10//11
+Rear3rdSlowReboundSetting=8//9
+//Rear3rdFastReboundSetting=8//9
+//ChassisAdj00Setting=0//1
+//ChassisAdj01Setting=0//1
+//ChassisAdj02Setting=0//1
+//ChassisAdj03Setting=0//1
+//ChassisAdj04Setting=0//1
+//ChassisAdj05Setting=0//1
+//ChassisAdj06Setting=0//1
+//ChassisAdj07Setting=0//1
+//ChassisAdj08Setting=0//1
+//ChassisAdj09Setting=0//1
+//ChassisAdj10Setting=0//1
+//ChassisAdj11Setting=0//1
+
+[CONTROLS]
+SteerLockSetting=1//10.0 °
+RearBrakeSetting=20//60.0:40.0
+//BrakePressureSetting=20//90%
+//HandfrontbrakePressSetting=0//0%
+//HandbrakePressSetting=0//0%
+//TCSetting=0//1
+//ABSSetting=0//1
+
+[ENGINE]
+//RevLimitSetting=0//12,000
+//EngineBoostSetting=5//6
+//EngineMixtureSetting=0//0
+EngineBrakingMapSetting=5//5
+
+[DRIVELINE]
+FinalDriveSetting=2//1000/5300 (bevel 10/10)
+//ReverseSetting=0//1000/3235 (17.145)
+Gear1Setting=0//1000/2600 (13.780)
+Gear2Setting=0//1000/2100 (11.130)
+Gear3Setting=0//1000/1780 (9.434)
+Gear4Setting=0//1000/1465 (7.765)
+Gear5Setting=0//1000/1259 (6.673)
+Gear6Setting=0//1000/1082 (5.735)
+Gear7Setting=0//1000/975 (5.167)
+Gear8Setting=0//1000/866 (4.590)
+//RatioSetSetting=0//N/A
+DiffPumpSetting=16//16%
+DiffPowerSetting=16//17%
+DiffCoastSetting=12//12%
+DiffPreloadSetting=14//80 Nm
+//RearSplitSetting=0// 
+
+[FRONTLEFT]
+//CamberSetting=29//-3.05 °
+//PressureSetting=9//114 kPa
+PackerSetting=9//9.5 mm
+SpringSetting=4//116 N/mm
+//SpringRubberSetting=0//Detached
+//RideHeightSetting=14//30.0 mm
+//SlowBumpSetting=27//28
+//FastBumpSetting=5//6
+//SlowReboundSetting=11//12
+//FastReboundSetting=5//6
+//BrakeDiscSetting=2//28 mm
+//BrakePadSetting=1//2
+
+[FRONTRIGHT]
+//CamberSetting=29//-3.05 °
+//PressureSetting=9//114 kPa
+PackerSetting=9//9.5 mm
+SpringSetting=4//116 N/mm
+//SpringRubberSetting=0//Detached
+//RideHeightSetting=14//30.0 mm
+//SlowBumpSetting=27//28
+//FastBumpSetting=5//6
+//SlowReboundSetting=11//12
+//FastReboundSetting=5//6
+//BrakeDiscSetting=2//28 mm
+//BrakePadSetting=1//2
+
+[REARLEFT]
+//CamberSetting=24//-1.80 °
+//PressureSetting=10//110 kPa
+PackerSetting=0//7.5 mm
+SpringSetting=3//75 N/mm
+//SpringRubberSetting=0//Detached
+RideHeightSetting=39//61.5 mm
+//SlowBumpSetting=16//17
+FastBumpSetting=12//13
+//SlowReboundSetting=5//6
+//FastReboundSetting=7//8
+//BrakeDiscSetting=2//28 mm
+//BrakePadSetting=1//2
+
+[REARRIGHT]
+//CamberSetting=24//-1.80 °
+//PressureSetting=10//110 kPa
+PackerSetting=0//7.5 mm
+SpringSetting=3//75 N/mm
+//SpringRubberSetting=0//Detached
+RideHeightSetting=39//61.5 mm
+//SlowBumpSetting=16//17
+FastBumpSetting=12//13
+//SlowReboundSetting=5//6
+//FastReboundSetting=7//8
+//BrakeDiscSetting=2//28 mm
+//BrakePadSetting=1//2
+
+[BASIC]
+Downforce=0.500000
+Balance=0.500000
+Ride=0.500000
+Gearing=0.500000
+Custom=1
+

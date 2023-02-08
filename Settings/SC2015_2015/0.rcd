@@ -1,0 +1,13 @@
+//[[gMa1.002f (c)2016    ]] [[            ]]
+StockCar_2015
+{
+  Wilson Rachid
+  {
+    Team = NBR
+    Component = SC2015_2015
+    Skin = alt.dds
+    VehFile = SC2015_47.VEH
+    Description = Camry #47
+    Number = 47
+  }
+}

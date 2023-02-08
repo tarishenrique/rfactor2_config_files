@@ -1,0 +1,167 @@
+VehicleClassSetting="GT2_C6R"
+UpgradeSetting=(0,0,0,0)
+//VEH=D:\GAMES\Steam\steamapps\common\rFactor 2\Installed\Vehicles\ISI_Corvette_C6RGT2_2009\1.62\C6R_03.VEH
+//UpgradeClass=GT2_2009_C6R
+//Engine=0
+//Note: settings commented out if using the default
+
+[GENERAL]
+Notes=""
+Symmetric=1
+//CGHeightSetting=0//31.5 cm
+//CGRightSetting=1//50.1:49.9
+//CGRearSetting=2//49.5:50.5
+//WedgeSetting=0//0.00 turns
+//FrontTireCompoundSetting=0//S7 - Soft
+//RearTireCompoundSetting=0//S7 - Soft
+FuelSetting=85//90L (7laps)
+NumPitstopsSetting=2//2
+Pitstop1Setting=90//+90L (7laps)
+Pitstop2Setting=90//+90L (7laps)
+//Pitstop3Setting=49//N/A
+
+[LEFTFENDER]
+//FenderFlareSetting=0//0.0 cm
+
+[RIGHTFENDER]
+//FenderFlareSetting=0//0.0 cm
+
+[FRONTWING]
+//FWSetting=1//2
+
+[REARWING]
+RWSetting=12//20 deg
+
+[BODYAERO]
+//RadiatorSetting=1//2
+BrakeDuctSetting=3//4
+
+[SUSPENSION]
+//FrontWheelTrackSetting=0//167.8 cm
+//RearWheelTrackSetting=0//167.2 cm
+FrontAntiSwaySetting=1//72 N/mm
+RearAntiSwaySetting=2//13 N/mm
+FrontToeInSetting=12//0.00 deg
+//FrontToeOffsetSetting=0//0.00 deg
+RearToeInSetting=2//0.00 deg
+//RearToeOffsetSetting=0//0.00 deg
+LeftCasterSetting=2//5.0 deg
+RightCasterSetting=2//5.0 deg
+//LeftTrackBarSetting=0//0.0 cm
+//RightTrackBarSetting=0//0.0 cm
+//Front3rdPackerSetting=0//0.0 cm
+//Front3rdSpringSetting=0//Detached
+//Front3rdSlowBumpSetting=0//1
+//Front3rdFastBumpSetting=0//1
+//Front3rdSlowReboundSetting=0//1
+//Front3rdFastReboundSetting=0//1
+//Rear3rdPackerSetting=0//0.0 cm
+//Rear3rdSpringSetting=0//Detached
+//Rear3rdSlowBumpSetting=0//1
+//Rear3rdFastBumpSetting=0//1
+//Rear3rdSlowReboundSetting=0//1
+//Rear3rdFastReboundSetting=0//1
+//ChassisAdj00Setting=0//1
+//ChassisAdj01Setting=0//1
+//ChassisAdj02Setting=0//1
+//ChassisAdj03Setting=0//1
+//ChassisAdj04Setting=0//1
+//ChassisAdj05Setting=0//1
+//ChassisAdj06Setting=0//1
+//ChassisAdj07Setting=0//1
+//ChassisAdj08Setting=0//1
+//ChassisAdj09Setting=0//1
+//ChassisAdj10Setting=0//1
+//ChassisAdj11Setting=0//1
+
+[CONTROLS]
+SteerLockSetting=0//240 (8.2) deg
+RearBrakeSetting=20//55.0:45.0
+BrakePressureSetting=14//68.0 kgf (85%)
+//HandfrontbrakePressSetting=0//0%
+//HandbrakePressSetting=0//0%
+
+[ENGINE]
+//RevLimitSetting=4//6,200
+//EngineBoostSetting=0//1
+EngineBrakingMapSetting=2//2
+
+[DRIVELINE]
+//FinalDriveSetting=1//2.99:1
+//ReverseSetting=0//3.08 (9.22)
+Gear1Setting=3//2.77 (8.28)
+Gear2Setting=13//2.00 (5.98)
+Gear3Setting=26//1.59 (4.75)
+Gear4Setting=38//1.32 (3.93)
+Gear5Setting=52//1.14 (3.42)
+Gear6Setting=64//0.92 (2.76)
+//RatioSetSetting=0//N/A
+//DiffPumpSetting=0//0%
+DiffPowerSetting=3//25%
+DiffCoastSetting=10//60%
+DiffPreloadSetting=0//1
+//RearSplitSetting=0// 0.0:100.0
+
+[FRONTLEFT]
+CamberSetting=13//-3.5 deg
+PressureSetting=15//143 kPa
+PackerSetting=1//1.9 cm
+SpringSetting=9//201 N/mm
+//SpringRubberSetting=0//Detached
+RideHeightSetting=0//5.6 cm
+//SlowBumpSetting=5//6
+//FastBumpSetting=5//6
+SlowReboundSetting=7//8
+FastReboundSetting=7//8
+//BrakeDiscSetting=0//3.21 cm
+//BrakePadSetting=0//1
+
+[FRONTRIGHT]
+CamberSetting=13//-3.5 deg
+PressureSetting=15//143 kPa
+PackerSetting=1//1.9 cm
+SpringSetting=9//201 N/mm
+//SpringRubberSetting=0//Detached
+RideHeightSetting=0//5.6 cm
+//SlowBumpSetting=5//6
+//FastBumpSetting=5//6
+SlowReboundSetting=7//8
+FastReboundSetting=7//8
+//BrakeDiscSetting=0//3.21 cm
+//BrakePadSetting=0//1
+
+[REARLEFT]
+CamberSetting=11//-2.5 deg
+//PressureSetting=16//145 kPa
+//PackerSetting=0//1.9 cm
+SpringSetting=7//184 N/mm
+//SpringRubberSetting=0//Detached
+RideHeightSetting=2//6.0 cm
+SlowBumpSetting=4//5
+FastBumpSetting=4//5
+//SlowReboundSetting=5//6
+//FastReboundSetting=5//6
+//BrakeDiscSetting=0//3.00 cm
+//BrakePadSetting=0//1
+
+[REARRIGHT]
+CamberSetting=11//-2.5 deg
+//PressureSetting=16//145 kPa
+//PackerSetting=0//1.9 cm
+SpringSetting=7//184 N/mm
+//SpringRubberSetting=0//Detached
+RideHeightSetting=2//6.0 cm
+SlowBumpSetting=4//5
+FastBumpSetting=4//5
+//SlowReboundSetting=5//6
+//FastReboundSetting=5//6
+//BrakeDiscSetting=0//3.00 cm
+//BrakePadSetting=0//1
+
+[BASIC]
+Downforce=0.500000
+Balance=0.500000
+Ride=0.500000
+Gearing=0.500000
+Custom=1
+

@@ -1,0 +1,171 @@
+VehicleClassSetting="Indycar"
+UpgradeSetting=(14,0,0,0)
+//VEH=D:\GAMES\Steam\steamapps\common\rFactor 2\Installed\Vehicles\ISI_DallaraDW12_2014\1.63\DW12_98.VEH
+//UpgradeClass=IndyCar_2014_Chevy
+//Engine=0
+//Model=3
+//Wheelbase=1
+//Note: settings commented out if using the default
+
+[GENERAL]
+Notes=""
+Symmetric=0
+//CGHeightSetting=0//25 cm
+CGRightSetting=0//51.5:48.5
+CGRearSetting=0//43.0:57.0
+//WedgeSetting=8//0.00 turns
+//FrontTireCompoundSetting=0//Firehawk
+//RearTireCompoundSetting=0//Firehawk
+FuelSetting=8//15L (4laps)
+NumPitstopsSetting=3//3
+Pitstop1Setting=74//+70L (22laps)
+Pitstop2Setting=74//+70L (22laps)
+Pitstop3Setting=74//+70L (22laps)
+
+[LEFTFENDER]
+//FenderFlareSetting=0//1
+
+[RIGHTFENDER]
+//FenderFlareSetting=0//1
+
+[FRONTWING]
+FWSetting=3//-8.5 °
+
+[REARWING]
+RWSetting=0//-10.0 °
+
+[BODYAERO]
+//RadiatorSetting=0//1
+//BrakeDuctSetting=0//1
+
+[SUSPENSION]
+//FrontWheelTrackSetting=0//167.1 cm
+//RearWheelTrackSetting=0//156.9 cm
+FrontAntiSwaySetting=20//75 N/mm
+//RearAntiSwaySetting=13//92 N/mm
+//FrontToeInSetting=36//-0.10 deg
+//FrontToeOffsetSetting=0//0.00 deg
+//RearToeInSetting=10//0.05 deg
+//RearToeOffsetSetting=0//0.00 deg
+//LeftCasterSetting=20//6.0 deg
+//RightCasterSetting=20//6.0 deg
+//LeftTrackBarSetting=0//0.0 cm
+//RightTrackBarSetting=0//0.0 cm
+//Front3rdPackerSetting=5//1.0 cm
+//Front3rdSpringSetting=14//70 N/mm
+//Front3rdSlowBumpSetting=6//7
+//Front3rdFastBumpSetting=2//3
+//Front3rdSlowReboundSetting=4//5
+//Front3rdFastReboundSetting=2//3
+//Rear3rdPackerSetting=10//2.0 cm
+//Rear3rdSpringSetting=12//60 N/mm
+//Rear3rdSlowBumpSetting=6//7
+//Rear3rdFastBumpSetting=2//3
+//Rear3rdSlowReboundSetting=6//7
+//Rear3rdFastReboundSetting=2//3
+//ChassisAdj00Setting=0//1
+//ChassisAdj01Setting=0//1
+//ChassisAdj02Setting=0//1
+//ChassisAdj03Setting=0//1
+//ChassisAdj04Setting=0//1
+//ChassisAdj05Setting=0//1
+//ChassisAdj06Setting=0//1
+//ChassisAdj07Setting=0//1
+//ChassisAdj08Setting=0//1
+//ChassisAdj09Setting=0//1
+//ChassisAdj10Setting=0//1
+//ChassisAdj11Setting=0//1
+
+[CONTROLS]
+SteerLockSetting=5//450 (14) deg
+//RearBrakeSetting=20//55.0:45.0
+BrakePressureSetting=24//96 kgf
+//HandfrontbrakePressSetting=0//0%
+//HandbrakePressSetting=0//0%
+//TCSetting=0//1
+//ABSSetting=0//1
+
+[ENGINE]
+//RevLimitSetting=5//12,000
+//EngineBoostSetting=0//1
+EngineBrakingMapSetting=0//0
+
+[DRIVELINE]
+//FinalDriveSetting=1// 9/31 (bevel 20/22)
+//ReverseSetting=2//14/34 (9.202)
+Gear1Setting=0//14/41 (11.096)
+Gear2Setting=1//15/30 (7.578)
+Gear3Setting=9//17/27 (6.018)
+Gear4Setting=14//19/25 (4.985)
+Gear5Setting=24//20/23 (4.357)
+Gear6Setting=35//22/23 (3.961)
+//RatioSetSetting=0//N/A
+//DiffPumpSetting=0//10%
+//DiffPowerSetting=0//0%
+//DiffCoastSetting=0//0%
+//DiffPreloadSetting=0//1
+//RearSplitSetting=0// 0.0:100.0
+
+[FRONTLEFT]
+//CamberSetting=10//2.0 deg
+//PressureSetting=42//152 kPa
+//PackerSetting=32//21.0 mm
+//SpringSetting=5//166 N/mm
+//SpringRubberSetting=0//Detached
+//RideHeightSetting=1//22.5 mm
+//SlowBumpSetting=12//13
+//FastBumpSetting=8//9
+//SlowReboundSetting=15//16
+//FastReboundSetting=12//13
+//BrakeDiscSetting=0//2.10 cm
+//BrakePadSetting=0//1
+
+[FRONTRIGHT]
+CamberSetting=30//-2.0 deg
+//PressureSetting=90//200 kPa
+//PackerSetting=32//21.0 mm
+//SpringSetting=5//166 N/mm
+//SpringRubberSetting=0//Detached
+//RideHeightSetting=31//37.5 mm
+//SlowBumpSetting=12//13
+//FastBumpSetting=8//9
+//SlowReboundSetting=15//16
+//FastReboundSetting=12//13
+//BrakeDiscSetting=0//2.10 cm
+//BrakePadSetting=0//1
+
+[REARLEFT]
+CamberSetting=0//1.5 deg
+//PressureSetting=28//138 kPa
+//PackerSetting=33//24.0 mm
+//SpringSetting=8//140 N/mm
+//SpringRubberSetting=0//Detached
+//RideHeightSetting=2//33.0 mm
+//SlowBumpSetting=12//13
+//FastBumpSetting=8//9
+//SlowReboundSetting=15//16
+//FastReboundSetting=12//13
+//BrakeDiscSetting=0//2.10 cm
+//BrakePadSetting=0//1
+
+[REARRIGHT]
+//CamberSetting=20//-1.5 deg
+//PressureSetting=76//186 kPa
+//PackerSetting=33//24.0 mm
+//SpringSetting=8//140 N/mm
+//SpringRubberSetting=0//Detached
+//RideHeightSetting=10//47.0 mm
+//SlowBumpSetting=12//13
+//FastBumpSetting=8//9
+//SlowReboundSetting=15//16
+//FastReboundSetting=12//13
+//BrakeDiscSetting=0//2.10 cm
+//BrakePadSetting=0//1
+
+[BASIC]
+Downforce=0.500000
+Balance=0.500000
+Ride=0.500000
+Gearing=0.500000
+Custom=1
+

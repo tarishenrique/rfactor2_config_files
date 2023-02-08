@@ -1,0 +1,13 @@
+//[[gMa1.002f (c)2016    ]] [[            ]]
+NR2019
+{
+  warren
+  {
+    Team = don
+    Component = OSR_NR2019
+    Skin = ALT_Mustang_Amsoil.dds
+    VehFile = F38DR.VEH
+    Description = amsoil
+    Number = 16
+  }
+}
